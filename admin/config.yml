@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: wordpressers/blog.github.io
+  repo: wordpressers.github.io/blog.github.io
   branch: master
   site_domain: practical-varahamihira-ffc24f.netlify.com
 
